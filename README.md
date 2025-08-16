@@ -1,4 +1,4 @@
-Automating things with PowerShell
+Automate the boring things with
 
 <!--
 **dxwilke/dxwilke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
